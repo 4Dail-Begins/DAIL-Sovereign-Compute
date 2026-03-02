@@ -6,7 +6,7 @@ Dynamic Artificial Intelligence Laboratories (DAIL)
 Overview
 The Sovereign Compute Standard (SCS‑1) defines the global requirements, architecture, governance model, and verification framework for compute environments that support artificial intelligence systems under conditions of sovereignty, integrity, provenance, and reproducibility. It establishes the foundational layer of the DAIL Standards Ecosystem and serves as the authoritative reference for institutions seeking to deploy trustworthy, independently verifiable AI systems.
 SCS‑1 applies to classical, accelerated, distributed, edge, and quantum‑hybrid compute environments. It is technology‑neutral and implementation‑agnostic, focusing on the mandatory characteristics that sovereign compute systems shall satisfy.
-
+For a detailed record of the origin and evolution of the standard, see the project’s historical overview in HISTORY.md.
 Purpose
 SCS‑1 exists to ensure that AI workloads:
 • 	Execute independently of external influence
