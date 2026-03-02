@@ -1,0 +1,43 @@
+2026-03-SCS1-v1.1-Drafting-Open.md
+Announcement: Opening of the SCS‑1 v1.1 Drafting Cycle
+Dynamic Artificial Intelligence Laboratories (DAIL)
+DAIL Standards Council (DSC)
+March 2026
+The DAIL Standards Council formally announces the opening of the Sovereign Compute Standard (SCS‑1) v1.1 Drafting Cycle. This action marks the transition of SCS‑1 from initial publication to active governance, revision, and community participation under the authority of the DSC.
+SCS‑1 v1.1 is designated as a minor version update. It will introduce clarifications, expanded guidance, and editorial improvements while preserving all normative requirements established in SCS‑1 v1.0. The purpose of this cycle is to strengthen precision, enhance implementability, and incorporate early institutional feedback from sovereign compute adopters.
+
+Scope of the v1.1 Drafting Cycle
+The v1.1 cycle will focus on non‑breaking improvements, including:
+• 	Clarifications to definitions and terminology
+• 	Expanded examples and explanatory annexes
+• 	Additional guidance for hybrid classical‑quantum environments
+• 	Refinements to provenance and attestation workflows
+• 	Enhanced reproducibility scenarios and patterns
+• 	Editorial improvements for consistency and precision
+• 	Updates to architecture diagrams where beneficial
+No new normative requirements will be introduced in this minor version.
+
+Participation and Submission Process
+Institutions, researchers, and practitioners are invited to submit structured commentary through the repository’s issue templates. All submissions will be reviewed by the DAIL Standards Council in accordance with the governance procedures defined in GOVERNANCE.md.
+Submissions must include:
+• 	A clear description of the proposed clarification or improvement
+• 	Rationale and supporting evidence
+• 	Specific references to relevant sections of SCS‑1
+• 	Any suggested text or diagrams
+The DSC will acknowledge all submissions and assign them to the appropriate review track.
+
+Drafting and Review Workflow
+The v1.1 drafting cycle will proceed through the following stages:
+1. 	Collection and triage of community commentary
+2. 	Preparation of proposed revisions by the drafting team
+3. 	Technical review by subject‑matter experts
+4. 	Governance review and approval by the DSC
+5. 	Publication of the v1.1 Draft for Institutional Preview
+6. 	Finalization and release of SCS‑1 v1.1
+All approved changes will be documented in the versioned directories and the CHANGELOG.
+
+Commitment to Transparency and Rigor
+The DAIL Standards Council reaffirms its commitment to maintaining SCS‑1 as a transparent, rigorous, and institutionally governed standard. The v1.1 drafting cycle represents the first step in the long‑term evolution outlined in ROADMAP.md, ensuring that SCS‑1 continues to reflect best practices in sovereign compute architecture, integrity, provenance, reproducibility, and governance.
+
+Effective Date
+This announcement is effective immediately upon publication and will remain part of the permanent governance record for SCS‑1.
