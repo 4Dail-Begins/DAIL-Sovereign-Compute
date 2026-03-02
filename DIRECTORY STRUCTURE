@@ -1,0 +1,53 @@
+/ANNOUNCEMENTS/
+│
+├── 2026/
+│   ├── 2026-03-SCS1-v1.1-Drafting-Open.md
+│   ├── 2026-XX-SCS1-v1.1-Draft-Published.md          (future)
+│   ├── 2026-XX-SCS1-v1.1-Final-Release.md            (future)
+│   ├── 2026-XX-SCS1-Early-Adopter-Program.md         (future)
+│   └── 2026-XX-SCS1-Governance-Update.md             (future)
+│
+├── 2027/
+│   ├── 2027-XX-SCS1-v1.2-Drafting-Open.md            (future)
+│   ├── 2027-XX-SCS1-v1.2-Final-Release.md            (future)
+│   └── 2027-XX-SCS1-Standards-Council-Restructure.md (future)
+│
+└── index.md
+
+How this structure works
+1. Year‑based folders
+Each year gets its own folder:
+• 	Keeps the archive clean
+• 	Makes governance actions easy to browse
+• 	Mirrors how standards bodies maintain long‑term records
+2. Date‑stamped filenames
+Every announcement uses the format:
+
+YYYY-MM-Title.md
+This ensures:
+• 	Chronological sorting
+• 	Predictable naming
+• 	Zero ambiguity when multiple announcements occur in the same month
+3. Clear, descriptive titles
+Each filename includes:
+• 	The standard (SCS‑1)
+• 	The action (Drafting‑Open, Draft‑Published, Final‑Release)
+• 	The version (v1.1, v1.2, etc.)
+This makes the archive self‑documenting.
+4. index.md
+This file provides:
+• 	A chronological list of all announcements
+• 	Links to each file
+• 	A short description of each governance action
+It becomes the “table of contents” for the entire announcements archive.
+
+Why this structure is correct
+This mirrors the archival practices of:
+• 	W3C (Status of This Document + dated announcements)
+• 	ISO (dated notices in year‑based folders)
+• 	NIST (SP 800 series notices archived by year)
+It ensures SCS‑1 remains:
+• 	Professional
+• 	Navigable
+• 	Auditable
+• 	Future‑proof
